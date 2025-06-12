@@ -23,7 +23,7 @@ gcloud services enable container.googleapis.com
 ### Create a GKE cluster
 
 ```bash
-gcloud container clusters create-auto democluster --location us-central1 --release-channel RAPID
+gcloud container clusters create-auto democluster --location us-central1 --release-channel rapid
 ```
 
 #### Note
